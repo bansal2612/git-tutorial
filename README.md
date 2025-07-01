@@ -2,6 +2,9 @@
 
 This repository is for showing how Git and GitHub work This is first level heading
 
+Changes
+done
+
 ## Purpose
 
 Sample website with plenty of files for demos
