@@ -12,6 +12,8 @@ Fourth level Changes
 Sample website with plenty of files for demos
 ## Intro
 
+Added intro text
+
 ##Deployment
 
 ## How to contribute
