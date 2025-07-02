@@ -18,3 +18,9 @@ Added intro text
 Added deployment text
 
 ## How to contribute
+
+Added text in how to contribute
+
+Adding text without adding in stage area
+
+More text added
