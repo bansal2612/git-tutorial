@@ -24,3 +24,6 @@ Added text in how to contribute
 Adding text without adding in stage area
 
 More text added
+
+###Copyright notice
+2014.Gut Training
