@@ -27,3 +27,7 @@ More text added
 
 ###Copyright notice
 2014.Gut Training
+
+
+###Check merge conflict section
+
