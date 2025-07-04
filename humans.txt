@@ -7,7 +7,7 @@
 	Adding team info
 
 # THANKS
-
+Thanks to all my students
     <name>
 
 # TECHNOLOGY COLOPHON

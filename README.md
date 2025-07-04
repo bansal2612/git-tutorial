@@ -7,6 +7,8 @@ done
 
 Fourth level Changes
 
+Added text for rebasing example
+
 ## Purpose
 
 Sample website with plenty of files for demos
