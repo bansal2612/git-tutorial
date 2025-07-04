@@ -34,4 +34,5 @@ More text added
 
 
 ###Check merge conflict section
+Adding read me content
 
